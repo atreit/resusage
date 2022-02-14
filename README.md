@@ -5,7 +5,7 @@
 > $ ./resusage
 
 
-The progam displays the resourse usage of a specific process at regular intervals set by user. The data is obtained from Linux `/proc` files.
+The progam displays the resource usage of a specific process at regular intervals set by user. The data is obtained from Linux `/proc` files.
 
 
 Output is a CSV file containing the following data: 
